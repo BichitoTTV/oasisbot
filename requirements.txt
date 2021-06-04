@@ -1,0 +1,4 @@
+discord.py
+twitchAPI
+json
+datetime

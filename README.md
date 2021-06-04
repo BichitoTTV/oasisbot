@@ -1,1 +1,1 @@
-# oasisbot
+# oasis-twitchbot
